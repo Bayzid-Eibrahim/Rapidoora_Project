@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-print("--- Rapidoora AI Sales Analyzer ---")
+print("--- Developed by CEO Bayzid ---")
 
 # ১. কিছু কাল্পনিক ডেটা তৈরি করা
 data = {
